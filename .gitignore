@@ -1,0 +1,23 @@
+# Backend & Build
+target/
+*.class
+*.jar
+*.war
+.mvn/wrapper/maven-wrapper.jar
+
+# Frontend & Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Environment & Credentials
+.env
+application-local.yml
+
+# IDE & OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
