@@ -10,7 +10,7 @@
 
 ERP Web moderno, robusto e escalável para pequenas e médias empresas, desenvolvido como um **Monólito Modular** de ponta a ponta com **Java 21**, **Spring Boot 3**, **PostgreSQL** e **React + TypeScript + Tailwind CSS**.
 
-O projeto foi construído para demonstrar excelência técnica, boas práticas de engenharia de software sênior, **isolamento multitenant estrito** por empresa, integridade de dados por **Flyway**, controle concorrente com **travas pessimistas** para estoque, valores monetários com **`BigDecimal`**, autenticação **JWT** stateless e interface de usuário SaaS moderna.
+O projeto foi construído para demonstrar excelência técnica, boas práticas de desenvolvimento, **isolamento multitenant estrito** por empresa, integridade de dados por **Flyway**, controle concorrente com **travas pessimistas** para estoque, valores monetários com **`BigDecimal`**, autenticação **JWT** stateless e interface de usuário SaaS moderna.
 
 ---
 
